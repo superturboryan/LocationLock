@@ -5,9 +5,9 @@
 Motion detection alarm for iPhone + iPad.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/033d8173-47c0-4cea-bf25-3057a64ef908" width="260"/>
-  <img src="https://github.com/user-attachments/assets/9d555e19-0cea-468b-a069-457937bdb267" width="260"/>
-  <img src="https://github.com/user-attachments/assets/935e3390-70c6-47a0-b622-8bd0fd3cf762" width="260"/>
+  <img src="https://github.com/user-attachments/assets/88a9309e-efaa-4e05-953a-afe61bf02825" width="260"/>&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c605c9a8-f7a8-4692-b731-cbc50b0b4f64" width="260"/>&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9b6520ae-1d7c-449a-89dd-e2054285ca10" width="260"/>
   <br/>
 </p>
 
